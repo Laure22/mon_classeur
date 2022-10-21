@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "da5beba869bc2f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac00bfa83d0fea30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c6f5de722f7c09",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "docs/Notebook .ipynb",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f69d232561f91b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "385507a71c09b59e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f9120bc383b30bc0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "995b1ce6e8462141",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b504dc08a904b126",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "b5b36be9ce402827",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "abee8587d271749b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2a34013f0ec5b83d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd0709b16ae804dd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "2b20457bdec8e171",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3,
+    "pinned": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "87c6f5de722f7c09",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/index.md",
+    "Tsi.md"
+  ]
+}
